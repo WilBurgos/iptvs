@@ -48,8 +48,10 @@ http://177.93.45.155:6143/play/a00d/index.m3u8
 http://45.166.92.22:58001/play/a049/index.m3u8
 #EXTINF:-1 group-title="FAVS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png",STAR Channel
 http://177.93.45.155:6143/play/a00i/index.m3u8
+#EXTINF:-1 group-title="FAVS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyY1OJ1KwvaKIZNE3Ekj07A-6q_-ZJftytyw&usqp=CAU",imagen tv
+https://stream-02.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLhYR9ts98wAz1sdz56OqmPpsefnCEWJ-QAL53Z2kO7Gl)/dm/3/x82z4if/d/live-2.m3u8
 
-
+*******************************************************************************************************************************************************************
 
 #EXTINF:-1 group-title="Bics", ACTUALIZADO EL 13 DE OCT 12:00 HRS
 

@@ -6,6 +6,51 @@
 ************************ FEEL FREE TO FORK OR TAKE WHATEVER YOU WANT. I HOPE YOU USE IT WISELY. ***********************************************
 ************************ THIS IPTV LINK IS FOR YOUR OWN USE, NOT FOR SALE. THANK YOU.  ********************************************************
 
+#EXTINF:-1 group-title="FAVS", ACTUALIZADO EL 30 DE NOV 12:00 HRS
+
+#EXTINF:-1 group-title="FAVS" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png",HBO HD INTERNACIONAL
+http://181.78.105.146:6060/play/a00h
+#EXTINF:-1 group-title="FAVS" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png",HBO HD MX
+http://45.179.140.242:8000/play/a0kt
+#EXTINF:-1 group-title="FAVS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png",HBO 2 HD
+http://45.179.140.242:8000/play/a0l9
+#EXTINF:-1 group-title="FAVS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO Plus opc 1
+http://45.179.140.242:8000/play/a0la
+#EXTINF:-1 group-title="FAVS" tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png",HBO Family HD 1080p
+http://181.78.105.146:6060/play/a00k
+#EXTINF:-1 group-title="FAVS" tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png",HBO Family HD 720p
+http://45.179.140.242:8000/play/a0lc
+#EXTINF:-1 group-title="FAVS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png",HBO Xtreme 1080p
+http://181.78.105.146:6060/play/a00l
+#EXTINF:-1 group-title="FAVS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png",HBO Xtreme 720p
+http://45.179.140.242:8000/play/a0lb
+#EXTINF:-1 group-title="FAVS" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png", AZTECA UNO
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1 group-title="FAVS" tvg-logo="https://static.epg.best/mx/Azteca7.mx.png", AZTECA 7 854p
+https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+#EXTINF:-1 group-title="FAVS" tvg-logo="https://static.epg.best/mx/Azteca7.mx.png",Azteca 7 1280p web
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1 group-title="FAVS", LAS ESTRELLAS MX
+https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
+#EXTINF:-1 group-title="FAVS" tvg-logo="https://tvazteca.brightspotcdn.com/ce/0b/d308d0424aea9164ac7cbb813539/adn-40-cuadrado-2.png",ADN 40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1  group-title="FAVS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1200px-Claro_Sports_logo.svg.png", Claro Sports
+http://190.149.66.90:4000/play/a008/index.m3u8
+#EXTINF:-1  group-title="FAVS", Claro Sports 2
+http://45.5.117.182:8000/play/a0e5/index.m3u8
+#EXTINF:-1 group-title="FAVS" tvg-logo="http://descargas.podzone.net/logos/-golden.png", GOLDEN PLUS
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="FAVS" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png",UNIVERSAL opc 1
+http://45.179.140.242:8000/play/a0jw
+#EXTINF:-1 group-title="FAVS" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png",UNIVERSAL opc 2
+http://177.93.45.155:6143/play/a00d/index.m3u8
+#EXTINF:-1 group-title="FAVS" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/warner.png",WARNER CHANNEL HD
+http://45.166.92.22:58001/play/a049/index.m3u8
+#EXTINF:-1 group-title="FAVS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png",STAR Channel
+http://177.93.45.155:6143/play/a00i/index.m3u8
+
+
+
 #EXTINF:-1 group-title="Bics", ACTUALIZADO EL 13 DE OCT 12:00 HRS
 
 #EXTINF:-1 group-title="Bics", LAS ESTRELLAS LATAM
